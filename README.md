@@ -44,7 +44,8 @@ The dataset contains information on:
 
 Below is a preview of the dashboard or visual:
 
-![EV Dashboard Screenshot](screenshots/ev_dashboard.png)
+![EV Dashboard Screenshot](EDA)
+
 
 > 📌 *Make sure your screenshot image is saved inside a screenshots/ folder in your GitHub repo.*
 
